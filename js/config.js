@@ -13,7 +13,7 @@ var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Fallout Awakening";
+var l_serverName = "Mask's a slut";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -108,12 +108,12 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Awaken from your nightmare, my child!",
+"Sex, yeah!!",
 "Any similarity to actual persons living or dead is purely coincidental.",
-"Join our discord https://discord.gg/GARYTgp!",
+"Dominate me daddy!",
 "Imagine paying for an Outcast faction LOL",
-"Quests can be found across the map. They contain various rewards.",
-"Remember to stay hydrated and sated, since it brings out buffs!",
+"Cum in my thighs.",
+"No homo!",
 "Let me pay for caps, VIP and faction whitelists, oh wait this isn't the 'normal' FalloutRP!"
 ];
 
